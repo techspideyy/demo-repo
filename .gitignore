@@ -1,0 +1,15 @@
+# Ignore SSH key files
+*.pub
+*key
+*.pem
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node modules (if using JS/Node)
+node_modules/
+
+# Ignore Python files (if you ever use Python)
+__pycache__/
+*.pyc
